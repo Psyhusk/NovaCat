@@ -11,6 +11,7 @@
 
 ### 🔴 `VELVET DAGGER` — Defensive Cyber Threat Intelligence
 
+💜 Apoie o Desenvolvimento O NovaCat é um projeto de código aberto, arquitetado e desenvolvido 100% em ambiente mobile. Meu objetivo é criar ferramentas de alta performance que facilitem o fluxo de trabalho de profissionais da área, mesmo com as limitações técnicas do meu setup atual. Se esta ferramenta foi útil para você, considere apoiar o projeto: 👉 patreon.com/cw/Psyhusk/membership Seu apoio é fundamental para que eu possa continuar dedicando tempo integral ao desenvolvimento, à correção de bugs e à implementação de novas funcionalidades. Todo apoio é muito bem-vindo e me ajuda a manter este ecossistema vivo e em constante evolução. 🙏
 [![Python](https://img.shields.io/badge/Python-3.8%2B-red?style=flat-square&logo=python&logoColor=white&color=8b0000)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Arch%20%7C%20Hyprland-red?style=flat-square&color=8b0000)](https://archlinux.org)
 [![License](https://img.shields.io/badge/License-MIT-red?style=flat-square&color=8b0000)](LICENSE)
